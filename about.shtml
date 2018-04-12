@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Public Poetry Project: Name TBD</title>
+        <title>Name TBD: About</title>
     </head>
     <body>
         <!--#include virtual="navbar.html" -->
-        <h1>Public Poetry Project: Name TBD</h1>
+        <h1>About</h1>
     </body>
 </html
