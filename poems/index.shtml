@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Name TBD: Poems</title>
+    </head>
+    <body>
+        <!--#include virtual="/navbar.html" -->
+        <h1>Poems</h1>
+        <!--#include virtual="/poetrylist.html" -->
+    </body>
+</html>
