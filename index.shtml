@@ -12,5 +12,8 @@
         <p>
             Poems will be put up on the site, and participants can choose a section (or possibly an entire poem) to interpret.
         </p>
+        
+        <h2>Poems</h2>
+        <!--#include virtual="poetrylist.html" -->
     </body>
 </html
