@@ -4,7 +4,7 @@
         <title>Name TBD: Gallery</title>
     </head>
     <body>
-        <!--#include virtual="navbar.html" -->
+        <!--#include virtual="/navbar.html" -->
         <h1>Gallery</h1>
         <p>COMING SOON</p>
     </body>

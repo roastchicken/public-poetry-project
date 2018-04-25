@@ -4,7 +4,7 @@
         <title>Name TBD: About</title>
     </head>
     <body>
-        <!--#include virtual="navbar.html" -->
+        <!--#include virtual="/navbar.html" -->
         <h1>About</h1>
         <p>
             I'm creating this project as an assignment for the Poetry class I'm taking at <a href="http://uni.illinois.edu">University Laboratory High School</a>.

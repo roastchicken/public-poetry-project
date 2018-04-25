@@ -4,7 +4,7 @@
         <title>Public Poetry Project: Name TBD</title>
     </head>
     <body>
-        <!--#include virtual="navbar.html" -->
+        <!--#include virtual="/navbar.html" -->
         <h1>Public Poetry Project: Name TBD</h1>
         <p>
             Name TBD is a public poetry project about artistic interpretations of poetry.
@@ -14,6 +14,6 @@
         </p>
         
         <h2>Poems</h2>
-        <!--#include virtual="poetrylist.html" -->
+        <!--#include virtual="/poetrylist.html" -->
     </body>
 </html>
