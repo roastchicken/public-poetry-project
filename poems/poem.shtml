@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        
+        <title>Name TBD: Poem</title>
+    </head>
+    <body>
+        <!--#include virtual="/navbar.html" -->
+        <article>
+            <header>
+                <h1>Poem by Author</h1>
+            </header>
+            <p>
+                This is a poem.
+            </p>
+            <p>
+                It is nice.
+            </p>
+            <p>
+                These are more lines of the poem,<br>
+                but they are not shown in the preview.
+            </p>
+        </article>
+    </body>
+</html>
