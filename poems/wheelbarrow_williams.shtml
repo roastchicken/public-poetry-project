@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>Poetry Visualized: Poem</title>
+        
+        <!--#include virtual="/css_links.html" -->
+    </head>
+    <body>
+        <header>
+            <!--#include virtual="/navbar.html" -->
+        </header>
+        
+        <main>
+            <article>
+                <header>
+                    <h1>"The Red Wheelbarrow" by William Carlos Williams</h1>
+                    <address>
+                        <p>Please choose one of the stanzas below to interpret, and send an email to <a href="mailto:request@poetryart.org?subject=%22Thirteen%20Ways%20of%20Looking%20at%20a%20Blackbird%22%20by%20Wallace%20Stevens&body=Stanza%3A">request@poetryart.org</a> in order to request it.</p>
+                    </address>
+                    <p>
+                        Stanza requests will be honored on a first come, first serve basis.
+                        Please don't start on a piece without requesting the stanza first!
+                        The goal is to combine all of the art into one big piece that represents the poem, and if there are duplicates that doesn't work as well.
+                    </p>
+                </header>
+                <p>
+                    so much depends<br>
+                    upon
+                </p>
+                <p>
+                    a red wheel<br>
+                    barrow
+                <p>
+                </p>
+                    glazed with rain<br>
+                    water
+                <p>
+                    beside the white<br>
+                    chickens
+                </p>
+            </article>
+        </main>
+    </body>
+</html>
