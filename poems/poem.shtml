@@ -17,6 +17,14 @@
             <article>
                 <header>
                     <h1>Poem by Author</h1>
+                    <address>
+                        <p>Please choose one of the stanzas below to interpret, and send an email to <a href="mailto:request@poetryart.org?subject=%22Thirteen%20Ways%20of%20Looking%20at%20a%20Blackbird%22%20by%20Wallace%20Stevens&body=Stanza%3A">request@poetryart.org</a> in order to request it.</p>
+                    </address>
+                    <p>
+                        Stanza requests will be honored on a first come, first serve basis.
+                        Please don't start on a piece without requesting the stanza first!
+                        The goal is to combine all of the art into one big piece that represents the poem, and if there are duplicates that doesn't work as well.
+                    </p>
                 </header>
                 <p>
                     This is a poem.
