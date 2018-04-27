@@ -3,3 +3,37 @@ body
     background-color: #DEFDFF;
     font-family: 'Open Sans', sans-serif;
 }
+
+nav
+{
+    margin: 0.5em;
+    
+    background-color: #2F7A7F;
+    
+    font-size: 1.2em;
+}
+
+nav ul
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 0.5em;
+    margin: 0;
+    
+    list-style: none;
+}
+
+nav ul li
+{
+    display: inline-block;
+}
+
+nav ul a
+{
+    display: inline-block;
+    padding: 0.25em;
+    
+    color: black;
+    
+    text-decoration: none;
+}
