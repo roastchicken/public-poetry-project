@@ -6,8 +6,7 @@
         
         <title>Public Poetry Project: Name TBD</title>
         
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css" integrity="sha256-7GAtDQ79wTEOjhBKf70uBQG7A5yyb+8rigu07atXWDY=" crossorigin="anonymous" />
-        <link rel="stylesheet" href="/style.css">
+        <!--#include virtual="/css_links.html" -->
     </head>
     <body>
         <!--#include virtual="/navbar.html" -->
