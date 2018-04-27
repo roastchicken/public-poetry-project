@@ -9,21 +9,26 @@
         <!--#include virtual="/css_links.html" -->
     </head>
     <body>
-        <!--#include virtual="/navbar.html" -->
-        <article>
-            <header>
-                <h1>Poem by Author</h1>
-            </header>
-            <p>
-                This is a poem.
-            </p>
-            <p>
-                It is nice.
-            </p>
-            <p>
-                These are more lines of the poem,<br>
-                but they are not shown in the preview.
-            </p>
-        </article>
+        <header>
+            <!--#include virtual="/navbar.html" -->
+        </header>
+        
+        <main>
+            <article>
+                <header>
+                    <h1>Poem by Author</h1>
+                </header>
+                <p>
+                    This is a poem.
+                </p>
+                <p>
+                    It is nice.
+                </p>
+                <p>
+                    These are more lines of the poem,<br>
+                    but they are not shown in the preview.
+                </p>
+            </article>
+        </main>
     </body>
 </html>

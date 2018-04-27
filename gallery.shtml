@@ -9,8 +9,13 @@
         <!--#include virtual="/css_links.html" -->
     </head>
     <body>
-        <!--#include virtual="/navbar.html" -->
-        <h1>Gallery</h1>
-        <p>COMING SOON</p>
+        <header>
+            <!--#include virtual="/navbar.html" -->
+        </header>
+        
+        <main>
+            <h1>Gallery</h1>
+            <p>COMING SOON</p>
+        </main>
     </body>
 </html>

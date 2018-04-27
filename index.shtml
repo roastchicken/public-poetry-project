@@ -9,16 +9,21 @@
         <!--#include virtual="/css_links.html" -->
     </head>
     <body>
-        <!--#include virtual="/navbar.html" -->
-        <h1>Public Poetry Project: Name TBD</h1>
-        <p>
-            Name TBD is a public poetry project about artistic interpretations of poetry.
-        </p>
-        <p>
-            Poems will be put up on the site, and participants can choose a section (or possibly an entire poem) to interpret.
-        </p>
+        <header>
+            <!--#include virtual="/navbar.html" -->
+        </header>
         
-        <h2>Poems</h2>
-        <!--#include virtual="/poetrylist.html" -->
+        <main>
+            <h1>Public Poetry Project: Name TBD</h1>
+            <p>
+                Name TBD is a public poetry project about artistic interpretations of poetry.
+            </p>
+            <p>
+                Poems will be put up on the site, and participants can choose a section (or possibly an entire poem) to interpret.
+            </p>
+            
+            <h2>Poems</h2>
+            <!--#include virtual="/poetrylist.html" -->
+        </main>
     </body>
 </html>

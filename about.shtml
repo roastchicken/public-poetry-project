@@ -9,18 +9,23 @@
         <!--#include virtual="/css_links.html" -->
     </head>
     <body>
-        <!--#include virtual="/navbar.html" -->
-        <h1>About</h1>
-        <p>
-            I'm creating this project as an assignment for the Poetry class I'm taking at <a href="http://uni.illinois.edu">University Laboratory High School</a>.
-        </p>
-        <p>
-            I am tasked with creating a 'Public Poetry Project': "any large-scale effort to bring a particular public to a greater awareness of poetry or some aspect of poetry."
-        </p>
-        <p>
-            I am targeting Downtown Urbana and Uni High, but anyone is free to submit pieces.
-        </p>
-        <h2>Contact</h2>
-        <p><a href="mailto:example@example.org">Email me</a></p>
+        <header>
+            <!--#include virtual="/navbar.html" -->
+        </header>
+        
+        <main>
+            <h1>About</h1>
+            <p>
+                I'm creating this project as an assignment for the Poetry class I'm taking at <a href="http://uni.illinois.edu">University Laboratory High School</a>.
+            </p>
+            <p>
+                I am tasked with creating a 'Public Poetry Project': "any large-scale effort to bring a particular public to a greater awareness of poetry or some aspect of poetry."
+            </p>
+            <p>
+                I am targeting Downtown Urbana and Uni High, but anyone is free to submit pieces.
+            </p>
+            <h2>Contact</h2>
+            <p><a href="mailto:example@example.org">Email me</a></p>
+        </main>
     </body>
 </html>

@@ -9,8 +9,13 @@
         <!--#include virtual="/css_links.html" -->
     </head>
     <body>
-        <!--#include virtual="/navbar.html" -->
-        <h1>Poems</h1>
-        <!--#include virtual="/poetrylist.html" -->
+        <header>
+            <!--#include virtual="/navbar.html" -->
+        </header>
+        
+        <main>
+            <h1>Poems</h1>
+            <!--#include virtual="/poetrylist.html" -->
+        </main>
     </body>
 </html>
