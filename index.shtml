@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <title>Public Poetry Project: Name TBD</title>
+        <title>Poetry Visualized: Public Poetry Project</title>
         
         <!--#include virtual="/css_links.html" -->
     </head>
@@ -14,9 +14,9 @@
         </header>
         
         <main>
-            <h1>Public Poetry Project: Name TBD</h1>
+            <h1>Public Poetry Project: Poetry Visualized</h1>
             <p>
-                Name TBD is a public poetry project about artistic interpretations of poetry.
+                Poetry Visualized is a public poetry project about artistic interpretations of poetry.
             </p>
             <p>
                 Poems will be put up on the site, and participants can choose a section (or possibly an entire poem) to interpret.
