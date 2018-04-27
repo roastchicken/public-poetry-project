@@ -23,7 +23,7 @@
             </p>
             
             <h2>Poems</h2>
-            <!--#include virtual="/poetrylist.html" -->
+            <!--#include virtual="/poems/poetrylist.html" -->
         </main>
     </body>
 </html>
