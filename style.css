@@ -42,3 +42,8 @@ main
 {
     margin: 0 1em;
 }
+
+article.poem header p
+{
+    font-style: italic;
+}

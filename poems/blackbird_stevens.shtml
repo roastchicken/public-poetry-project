@@ -14,7 +14,7 @@
         </header>
         
         <main>
-            <article>
+            <article class="poem">
                 <header>
                     <h1>"Thirteen Ways of Looking at a Blackbird" by Wallace Stevens</h1>
                     <address>

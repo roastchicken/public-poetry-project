@@ -14,7 +14,7 @@
         </header>
         
         <main>
-            <article>
+            <article class="poem">
                 <header>
                     <h1>"The Red Wheelbarrow" by William Carlos Williams</h1>
                     <address>
